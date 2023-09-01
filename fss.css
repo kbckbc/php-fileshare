@@ -1,0 +1,10 @@
+body {
+    margin: auto;
+    width: 50%;
+    border: 4px dotted lavender;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
